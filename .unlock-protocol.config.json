@@ -1,0 +1,14 @@
+{
+  "persistentCheckout": true,
+  "icon": "https://i.imgur.com/UYnWtuR.png",
+  "callToAction": {
+    "default": "Yo!",
+    "pending": "Thanks for the support! :)",
+    "confirmed": "Thanks for the support! :)"
+  },
+  "locks": {
+    "0x7aFa5A4385881A2B40D7584CD6F4a3A43983BA21": {
+      "name": "HIVE Patron"
+    }
+  }
+}
