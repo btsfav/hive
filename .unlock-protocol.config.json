@@ -2,7 +2,7 @@
   "persistentCheckout": true,
   "icon": "https://i.imgur.com/UYnWtuR.png",
   "callToAction": {
-    "default": "Yo!",
+    "default": "Hey, thanks for Donating 5 DAI :)",
     "pending": "Thanks for the support! :)",
     "confirmed": "Thanks for the support! :)"
   },
